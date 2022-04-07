@@ -32,3 +32,9 @@ This repo contain TF2 object detection based web flask API.  Also  detect the ob
 
 40% Cropping applied:
 ![image](https://user-images.githubusercontent.com/46878296/162258743-64cb03a2-3d40-4b24-a805-1f6e25d1890b.png)
+
+Note:
+my_model\saved_model\variables\variables.data-00000-of-00001 file deleted due to space constriants
+
+Train the model using colab file & past here.
+
